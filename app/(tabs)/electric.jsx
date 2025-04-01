@@ -100,7 +100,7 @@ const styles = StyleSheet.create({
   idText: {
     fontSize: 14,
     fontWeight: "bold",
-    color: "white",
+    color: "black",
   },
   image: {
     width: 220,

@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   idText: {
-    fontSize: 16,
+    fontSize: 14,
     fontWeight: "bold",
     color: "white",
   },
