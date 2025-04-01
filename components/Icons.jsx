@@ -4,7 +4,7 @@ import Ionicons from "@expo/vector-icons/Ionicons";
 import MaterialIcons from '@expo/vector-icons/MaterialIcons';
 
 export const HomeIcon = (props) => (
-  <FontAwesome5 name="home" size={24} color="black" {...props} />
+  <FontAwesome5 name="home" size={24} color="white" {...props} />
 );
 
 export const FireIcon = (props) => (
